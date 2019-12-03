@@ -1,7 +1,7 @@
 # GrpcServiceExample
-基于 NETCore 实现对于 Google gRpc 框架的调用
+基于 NETCore 集成 Google gRpc 框架 及调用示例
 
-目前仅实现了 一些基本调用示例
+(目前仅实现了 一些基本调用示例)
 
 # 一元调用
 
